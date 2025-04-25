@@ -1,0 +1,1 @@
+-Certificate: https://github.com/gunjan403/Certifications/blob/main/IBM%20Data%20Analyst%20Certificate.pdfView Certificate</a>
